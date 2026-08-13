@@ -3,3 +3,7 @@
 build
 build/
 .classpath
+bin
+build
+.settings
+
